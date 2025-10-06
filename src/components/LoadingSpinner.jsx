@@ -8,7 +8,6 @@ const LoadingSpinner = ({ message = "Loading..." }) => {
         <div className="relative">
           <div className="relative mb-8">
             <div className="inline-block animate-spin rounded-full h-16 w-16 border-4 border-blue-100 border-t-blue-600 shadow-lg"></div>
-            <div className="absolute inset-0 rounded-full border-4 border-transparent border-t-indigo-400 animate-spin" style={{ animationDirection: 'reverse', animationDuration: '1.5s' }}></div>
           </div>
           
           <div className="text-2xl text-slate-800 font-bold mb-3 bg-gradient-to-r from-slate-800 to-blue-800 bg-clip-text text-transparent">{message}</div>
