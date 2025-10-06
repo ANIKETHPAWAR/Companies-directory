@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Solutions",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "founded": 2015,
+    "employees": 150,
+    "description": "Leading provider of cloud-based software solutions"
+  },
+  {
+    "id": 2,
+    "name": "Green Energy Co",
+    "industry": "Energy",
+    "location": "Austin, TX",
+    "founded": 2018,
+    "employees": 75,
+    "description": "Renewable energy solutions for sustainable future"
+  },
+  {
+    "id": 3,
+    "name": "HealthFirst Medical",
+    "industry": "Healthcare",
+    "location": "Boston, MA",
+    "founded": 2012,
+    "employees": 300,
+    "description": "Innovative medical devices and healthcare technology"
+  },
+  {
+    "id": 4,
+    "name": "FinanceFlow Inc",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "founded": 2020,
+    "employees": 200,
+    "description": "Digital banking and financial services platform"
+  },
+  {
+    "id": 5,
+    "name": "EduTech Learning",
+    "industry": "Education",
+    "location": "Seattle, WA",
+    "founded": 2017,
+    "employees": 120,
+    "description": "Online learning platform for professional development"
+  },
+  {
+    "id": 6,
+    "name": "RetailMax",
+    "industry": "Retail",
+    "location": "Chicago, IL",
+    "founded": 2010,
+    "employees": 500,
+    "description": "E-commerce platform for retail businesses"
+  },
+  {
+    "id": 7,
+    "name": "DataFlow Analytics",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "founded": 2019,
+    "employees": 85,
+    "description": "Advanced data analytics and business intelligence solutions"
+  },
+  {
+    "id": 8,
+    "name": "MediCare Plus",
+    "industry": "Healthcare",
+    "location": "Miami, FL",
+    "founded": 2016,
+    "employees": 250,
+    "description": "Comprehensive healthcare services and medical technology"
+  },
+  {
+    "id": 9,
+    "name": "SolarTech Energy",
+    "industry": "Energy",
+    "location": "Denver, CO",
+    "founded": 2021,
+    "employees": 45,
+    "description": "Solar panel installation and renewable energy consulting"
+  },
+  {
+    "id": 10,
+    "name": "EduPlatform Pro",
+    "industry": "Education",
+    "location": "Portland, OR",
+    "founded": 2014,
+    "employees": 180,
+    "description": "Online learning management system for educational institutions"
+  },
+  {
+    "id": 11,
+    "name": "FinanceFirst Bank",
+    "industry": "Finance",
+    "location": "Dallas, TX",
+    "founded": 2008,
+    "employees": 1200,
+    "description": "Digital banking services and financial planning solutions"
+  },
+  {
+    "id": 12,
+    "name": "TechStart Inc",
+    "industry": "Technology",
+    "location": "Austin, TX",
+    "founded": 2022,
+    "employees": 25,
+    "description": "Startup accelerator and technology consulting services"
+  },
+  {
+    "id": 13,
+    "name": "CloudScale Systems",
+    "industry": "Technology",
+    "location": "San Jose, CA",
+    "founded": 2019,
+    "employees": 320,
+    "description": "Cloud infrastructure and DevOps solutions for enterprise clients"
+  },
+  {
+    "id": 14,
+    "name": "MediTech Solutions",
+    "industry": "Healthcare",
+    "location": "Philadelphia, PA",
+    "founded": 2017,
+    "employees": 180,
+    "description": "Medical device innovation and healthcare technology integration"
+  },
+  {
+    "id": 15,
+    "name": "WindPower Energy",
+    "industry": "Energy",
+    "location": "Minneapolis, MN",
+    "founded": 2015,
+    "employees": 95,
+    "description": "Wind turbine manufacturing and renewable energy consulting"
+  },
+  {
+    "id": 16,
+    "name": "EduTech Academy",
+    "industry": "Education",
+    "location": "Nashville, TN",
+    "founded": 2020,
+    "employees": 65,
+    "description": "Online coding bootcamps and technical skill development"
+  },
+  {
+    "id": 17,
+    "name": "FinanceFlow Capital",
+    "industry": "Finance",
+    "location": "Charlotte, NC",
+    "founded": 2013,
+    "employees": 450,
+    "description": "Investment banking and financial advisory services"
+  },
+  {
+    "id": 18,
+    "name": "RetailTech Solutions",
+    "industry": "Retail",
+    "location": "Phoenix, AZ",
+    "founded": 2018,
+    "employees": 120,
+    "description": "Point-of-sale systems and retail management software"
+  },
+  {
+    "id": 19,
+    "name": "CyberSecure Corp",
+    "industry": "Technology",
+    "location": "Washington, DC",
+    "founded": 2016,
+    "employees": 200,
+    "description": "Cybersecurity services and threat intelligence solutions"
+  },
+  {
+    "id": 20,
+    "name": "HealthCare Plus",
+    "industry": "Healthcare",
+    "location": "Orlando, FL",
+    "founded": 2014,
+    "employees": 350,
+    "description": "Comprehensive healthcare services and patient management systems"
+  },
+  {
+    "id": 21,
+    "name": "SolarMax Energy",
+    "industry": "Energy",
+    "location": "Las Vegas, NV",
+    "founded": 2021,
+    "employees": 40,
+    "description": "Residential and commercial solar panel installation"
+  },
+  {
+    "id": 22,
+    "name": "EduPlatform Global",
+    "industry": "Education",
+    "location": "Atlanta, GA",
+    "founded": 2019,
+    "employees": 150,
+    "description": "International online education platform and certification programs"
+  },
+  {
+    "id": 23,
+    "name": "WealthFirst Bank",
+    "industry": "Finance",
+    "location": "Detroit, MI",
+    "founded": 2009,
+    "employees": 800,
+    "description": "Personal and business banking with digital-first approach"
+  },
+  {
+    "id": 24,
+    "name": "FashionForward Retail",
+    "industry": "Retail",
+    "location": "Los Angeles, CA",
+    "founded": 2017,
+    "employees": 280,
+    "description": "E-commerce platform for fashion and lifestyle products"
+  },
+  {
+    "id": 25,
+    "name": "AI Innovations Lab",
+    "industry": "Technology",
+    "location": "Pittsburgh, PA",
+    "founded": 2020,
+    "employees": 75,
+    "description": "Artificial intelligence research and machine learning solutions"
+  },
+  {
+    "id": 26,
+    "name": "MediCare Network",
+    "industry": "Healthcare",
+    "location": "Houston, TX",
+    "founded": 2012,
+    "employees": 600,
+    "description": "Healthcare network management and patient care coordination"
+  },
+  {
+    "id": 27,
+    "name": "HydroPower Systems",
+    "industry": "Energy",
+    "location": "Portland, OR",
+    "founded": 2018,
+    "employees": 55,
+    "description": "Hydroelectric power generation and water management systems"
+  },
+  {
+    "id": 28,
+    "name": "SkillUp Academy",
+    "industry": "Education",
+    "location": "Denver, CO",
+    "founded": 2016,
+    "employees": 90,
+    "description": "Professional development and corporate training programs"
+  },
+  {
+    "id": 29,
+    "name": "InvestPro Capital",
+    "industry": "Finance",
+    "location": "Miami, FL",
+    "founded": 2015,
+    "employees": 180,
+    "description": "Real estate investment and portfolio management services"
+  },
+  {
+    "id": 30,
+    "name": "TechGadgets Store",
+    "industry": "Retail",
+    "location": "San Diego, CA",
+    "founded": 2019,
+    "employees": 45,
+    "description": "Consumer electronics and technology accessories retail"
+  },
+  {
+    "id": 31,
+    "name": "Blockchain Solutions",
+    "industry": "Technology",
+    "location": "New York, NY",
+    "founded": 2021,
+    "employees": 35,
+    "description": "Blockchain development and cryptocurrency consulting services"
+  },
+  {
+    "id": 32,
+    "name": "Wellness Center Plus",
+    "industry": "Healthcare",
+    "location": "Tampa, FL",
+    "founded": 2018,
+    "employees": 125,
+    "description": "Wellness programs and preventive healthcare services"
+  },
+  {
+    "id": 33,
+    "name": "Geothermal Energy Co",
+    "industry": "Energy",
+    "location": "Reno, NV",
+    "founded": 2017,
+    "employees": 30,
+    "description": "Geothermal energy exploration and power generation"
+  },
+  {
+    "id": 34,
+    "name": "Language Learning Hub",
+    "industry": "Education",
+    "location": "Chicago, IL",
+    "founded": 2014,
+    "employees": 110,
+    "description": "Online language learning platform with native speaker tutors"
+  },
+  {
+    "id": 35,
+    "name": "CryptoFinance Group",
+    "industry": "Finance",
+    "location": "San Francisco, CA",
+    "founded": 2020,
+    "employees": 65,
+    "description": "Cryptocurrency trading and digital asset management"
+  },
+  {
+    "id": 36,
+    "name": "HomeDecor Plus",
+    "industry": "Retail",
+    "location": "Dallas, TX",
+    "founded": 2016,
+    "employees": 95,
+    "description": "Home decoration and furniture e-commerce platform"
+  },
+  {
+    "id": 37,
+    "name": "IoT Solutions Inc",
+    "industry": "Technology",
+    "location": "Boston, MA",
+    "founded": 2019,
+    "employees": 85,
+    "description": "Internet of Things device development and smart city solutions"
+  },
+  {
+    "id": 38,
+    "name": "Mental Health First",
+    "industry": "Healthcare",
+    "location": "Seattle, WA",
+    "founded": 2021,
+    "employees": 70,
+    "description": "Mental health services and telemedicine platform"
+  },
+  {
+    "id": 39,
+    "name": "BioEnergy Systems",
+    "industry": "Energy",
+    "location": "Kansas City, MO",
+    "founded": 2015,
+    "employees": 40,
+    "description": "Biomass energy production and waste-to-energy solutions"
+  },
+  {
+    "id": 40,
+    "name": "STEM Academy Online",
+    "industry": "Education",
+    "location": "Austin, TX",
+    "founded": 2017,
+    "employees": 80,
+    "description": "STEM education programs for K-12 and college students"
+  },
+  {
+    "id": 41,
+    "name": "InsuranceFirst Group",
+    "industry": "Finance",
+    "location": "Columbus, OH",
+    "founded": 2011,
+    "employees": 500,
+    "description": "Comprehensive insurance services and risk management"
+  },
+  {
+    "id": 42,
+    "name": "SportsGear Central",
+    "industry": "Retail",
+    "location": "Portland, OR",
+    "founded": 2018,
+    "employees": 60,
+    "description": "Sports equipment and athletic gear retail chain"
+  },
+  {
+    "id": 43,
+    "name": "Quantum Computing Labs",
+    "industry": "Technology",
+    "location": "Boulder, CO",
+    "founded": 2022,
+    "employees": 25,
+    "description": "Quantum computing research and algorithm development"
+  },
+  {
+    "id": 44,
+    "name": "Senior Care Solutions",
+    "industry": "Healthcare",
+    "location": "Phoenix, AZ",
+    "founded": 2016,
+    "employees": 200,
+    "description": "Elderly care services and assisted living management"
+  },
+  {
+    "id": 45,
+    "name": "Nuclear Energy Corp",
+    "industry": "Energy",
+    "location": "Richmond, VA",
+    "founded": 2013,
+    "employees": 1200,
+    "description": "Nuclear power generation and energy infrastructure"
+  },
+  {
+    "id": 46,
+    "name": "Art & Design Institute",
+    "industry": "Education",
+    "location": "Savannah, GA",
+    "founded": 2015,
+    "employees": 75,
+    "description": "Creative arts education and design certification programs"
+  },
+  {
+    "id": 47,
+    "name": "MicroFinance Solutions",
+    "industry": "Finance",
+    "location": "Salt Lake City, UT",
+    "founded": 2019,
+    "employees": 45,
+    "description": "Micro-lending and small business financial services"
+  },
+  {
+    "id": 48,
+    "name": "PetCare Central",
+    "industry": "Retail",
+    "location": "San Antonio, TX",
+    "founded": 2017,
+    "employees": 35,
+    "description": "Pet supplies and veterinary care products retail"
+  },
+  {
+    "id": 49,
+    "name": "Robotics Dynamics",
+    "industry": "Technology",
+    "location": "Ann Arbor, MI",
+    "founded": 2020,
+    "employees": 50,
+    "description": "Industrial robotics and automation solutions"
+  },
+  {
+    "id": 50,
+    "name": "Emergency Medical Services",
+    "industry": "Healthcare",
+    "location": "Cleveland, OH",
+    "founded": 2014,
+    "employees": 300,
+    "description": "Emergency medical response and ambulance services"
+  }
+]
